@@ -22,3 +22,5 @@ Para fins educacionais, entender o funcionamento do ransomware é essencial para
 - Fazer backups regulares dos dados.
 - Evitar clicar em links ou baixar anexos suspeitos.
 - Promover treinamentos sobre segurança digital.
+
+OBS.: Certifique-se de ter instalado em seu computador python e as bibliotecas necessárias.
