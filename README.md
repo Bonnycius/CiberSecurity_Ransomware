@@ -1,7 +1,9 @@
 🛡️ O que é Ransomware?
+
 Ransomware é um tipo de software malicioso (malware) projetado para bloquear ou criptografar os arquivos de um sistema, tornando-os inacessíveis até que a vítima pague um resgate (ransom) — geralmente em criptomoedas como o Bitcoin. O termo vem da junção de “ransom” (resgate) e “software”.
 
 🎯 Objetivo do Ransomware
+
 O principal objetivo dos atacantes é obter ganhos financeiros, causando interrupções graves em empresas, instituições governamentais e usuários comuns. Em ataques mais sofisticados, também podem ocorrer vazamentos de dados confidenciais.
 
 ⚙️ Como Funciona
